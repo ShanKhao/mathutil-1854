@@ -17,7 +17,7 @@ public class MathUtility {
             throw new IllegalArgumentException("n must be between 0 and 20");
         }
         //bạn đưa invalid data, mình ném ra ngoại lệ, hàm ko được chạy thành công, ko value trả về
-        if(n==0){
+        if(n==0|| n==1){
             return 1;
         }
         // sống sót đến đây thì
