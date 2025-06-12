@@ -10,4 +10,4 @@
 
 ### Connect me via: shanhao2005@gmail.com
 
-####  &#169 2025 shankhao
+####  &#169; 2025 shankhao
